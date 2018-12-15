@@ -1,0 +1,757 @@
+﻿body{
+    
+ background-color:orange;
+ color:#000000;
+ /*position:fixed;
+ width:100%;
+ height:100%;  */
+}
+
+html{
+    /*width:100%;
+    height:100%;*/
+}
+
+
+
+.div{
+
+ border:0;
+ padding:0;
+ width: 100%;
+ height: 100%;
+    
+/*min-width: 1000px; might be needed for research pages */
+/*min-height: 1000px  might be needed for research page */
+
+}
+
+
+.parent{
+
+  display:flex;
+
+
+
+}
+
+
+.coconut{
+
+   flex:1; 
+   display: flex;
+   text-decoration: none;
+   justify-content:space-between;
+   padding-bottom:00px;
+   padding-top: 00px;
+   max-width: 100%,
+   max-height:500px;
+
+
+}
+
+.coconuts{
+
+   flex:; 
+   display: flex;
+   text-decoration: none;
+   justify-content:space-between;
+   padding-bottom: 10px;
+   padding-top: 100px
+   max-width: 100%,
+   max-height:500px;
+}
+
+.stores{
+    
+    flex:; 
+    display:;
+    text-align:right;
+    justify-content:center;
+    padding-right:800px;
+    margin: 0px;
+        
+}
+
+.location img {
+    
+  padding-top: 500px;  
+    
+    
+}
+
+.retailer{
+    
+   display: flex;
+   padding-right:400px;
+   
+}
+
+.retailers{
+    
+flex:33.33%;
+padding:0;
+margin:0;
+
+    
+}
+    
+.location{
+    
+    
+    
+}
+
+.return{
+    
+    
+    
+    padding-top: 1000px;
+}
+   
+.beverage{
+  
+  
+ align-content:center;
+  padding-top:700px;
+    
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+    
+    
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+  background: red;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: red;
+  color: white;
+}
+.King{
+    
+   flex:1; 
+   display: flex;
+   text-decoration: none;
+   justify-content: space-between;
+    max-width: 100%,
+    max-height:500px;
+    
+}
+    
+.Kingcoco{
+    
+   max-width: 100%;
+   max-height: 600px;
+   flex:; 
+   display: flex;
+   padding-top: 270px;
+padding-left: 100px
+    
+}
+
+.nav {
+
+    list-style-type:none;
+    color:#000000;
+    margin: 20px;
+    padding-top: 150px;
+    
+    
+
+
+
+} 
+
+.nav a{
+    color: black;
+    list-style-type: none;
+    justify-content:center;
+    display:inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius:30px;
+    padding:5px;
+    padding-left: 250px;
+    overflow: hidden;
+}
+
+.nav a:hover{
+    
+    border-bottom: 3px solid red;
+    
+}
+
+.vacation{
+    
+    flex:1; 
+    display: flex;
+    max-width: 100%,
+    max-height:500px; 
+    
+}
+
+.stores{
+    
+    
+    text-align: center;
+    padding-top:0;
+}
+
+.return {
+    
+    padding-top:400px;
+  
+    
+    
+}
+
+    
+
+
+.tree{
+    
+    padding-top:1px;
+}
+
+h3{
+    
+    
+    text-align:right;
+}
+
+.fashion{
+
+   flex:1; 
+   display:;
+   text-decoration: none;
+   justify-content: space-between;
+
+
+}
+
+.fashion p{
+    padding-top: 300px;
+    
+    
+    
+}
+
+.fash p{
+    padding-top:375px;
+    
+}
+
+fash h1{
+    
+    padding-left: 500px;
+    flex:1; 
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+
+
+
+.nav_below{
+    
+    display: block;
+    list-style-type: none;
+    padding-top: 1000px;
+}
+
+
+.navi {
+
+     list-style: none;
+     color:#ffffff;
+     line-height: 1.5;
+     padding-left:1750px;
+    }
+
+
+.navi li{
+    
+    display: block;
+    list-style-type: none;
+    
+}
+
+
+ul a {
+    
+    color:#000000;
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding-right: 100px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+    
+}
+
+.container{
+    
+    list-style: none;
+     color:#ffffff;
+     line-height: 1.5;
+     display: block;
+     padding-top: 700px;
+}
+
+h1{
+
+     text-transform:uppercase;
+     text-align:right;
+     font-weight: 800;
+
+}
+
+.test h1{
+        
+    text-transform: uppercase;
+    text-align:center;
+        
+     
+    }
+
+
+.fashion img{
+
+   max-width: 100%;
+   max-height: 500px;
+
+}
+
+p{
+    
+  padding-left: 50px;
+    
+}
+
+.machine p{
+ 
+   padding-top:200px;    
+   padding-left:100px;
+    
+}
+ 
+    
+    
+
+.mach p{
+ 
+  padding-left:1500px;
+  text-align:center;
+    
+}
+
+.mach img {
+    
+  max-width: 100%;
+  max-height: 500px;
+
+    
+}
+
+.youtube {
+    
+   display:flex;
+   justify-content:space-between;
+   flex-direction:
+   color: #000000;
+}
+
+.youtube img {
+    
+    
+    max-width: 100%;
+    max-height: 500px;
+}
+
+
+.affect {
+    
+   display:flex;
+   justify-content:space-between;
+   flex-direction:row;
+   color: #000000;
+   width: 100%;
+    
+}
+
+
+.affect img {
+    
+    max-width: 100%;
+    max-height: 600px;
+    width: 50%;
+    
+
+}
+
+.sign{
+    
+    padding-bottom:100px;
+}
+
+
+.email{
+    
+    
+    padding-left: 32px;
+}
+
+.submit{
+    
+  padding-left: 125px;
+    
+}
+
+.cover{
+   
+    width:100%;
+    
+    }
+
+
+
+
+.video img{
+    
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    padding-left: 1350px;
+    max-width: 100%,
+    max-height:500px;
+    
+}
+
+.container h1{
+    
+   padding-right: 800px;
+   text-align:inherit;
+}
+
+
+form {
+    
+    padding-top: 300px;
+    
+     
+        
+}
+
+
+
+.contain{
+    
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.square{
+    
+    height: 94%;
+    width: 94%;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -47% 0 0 -47%;
+}
+
+.black{ 
+    
+    background: black;  
+    animation: rotate 10s infinite linear; 
+}
+
+@keyframes rotate{
+  0%{ transform: rotate(0deg); }
+    100%{ transform: rotate(360deg); }  
+     
+    
+}
+
+.coconut p{
+    padding-top: 50px;
+    
+    
+    
+}
+
+.fash p{
+    padding-top:375px;
+    
+}
+
+fash h1{
+    
+    padding-left: 500px;
+    flex:1; 
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+
+.nav {
+
+    list-style-type: none;
+    color:#ffffff;
+    line-height: 1.5;
+
+
+
+} 
+
+.nav li{
+    
+    display: block;
+    list-style-type: none;
+    padding: 2%;
+    
+    
+}
+
+
+.navi {
+
+     list-style: none;
+     color:#ffffff;
+     line-height: 1.5;
+     padding-left:1750px;
+    }
+
+
+.navi li{
+    
+    display: block;
+    list-style-type: none;
+    
+}
+
+
+ul a {
+    
+    color:#ffffff;
+    list-style-type: none;
+
+}
+
+h1{
+
+     text-transform:uppercase;
+     text-align:right;
+     font-weight: 800;
+
+}
+
+.test h1{
+        
+    text-transform: uppercase;
+    text-align:center;
+        
+     
+    }
+
+
+.fashion img{
+
+   max-width: 100%;
+   max-height: 500px;
+
+}
+
+p{
+    
+  padding-right: 5%;
+    
+}
+
+.machine p{
+ 
+   padding-top:200px;    
+   padding-left:100px;
+    
+}
+ 
+    
+    
+
+.mach p{
+ 
+  padding-left:1500px;
+  text-align:center;
+    
+}
+
+.mach img {
+    
+  max-width: 100%;
+  max-height: 500px;
+
+    
+}
+
+.youtube {
+    
+   display:flex;
+   justify-content:space-between;
+   flex-direction:
+   color: #000000;
+}
+
+.youtube img {
+    
+    
+    max-width: 100%;
+    max-height: 500px;
+}
+
+
+.affect {
+    
+   display:flex;
+   justify-content:space-between;
+   flex-direction:row;
+   color: #000000;
+   width: 100%;
+    
+}
+
+
+.affect img {
+    
+    max-width: 100%;
+    max-height: 600px;
+    width: 50%;
+    
+
+}
+
+.sign{
+    
+    padding-bottom:100px;
+}
+
+
+.email{
+    
+    
+    padding-left: 32px;
+}
+
+.submit{
+    
+  padding-left: 125px;
+    
+}
+
+.cover{
+   
+    width:100%;
+    
+    }
+
+
+
+
+.video img{
+    
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    padding-left: 1350px;
+    max-width: 100%,
+    max-height:500px;
+    
+}
+
+.container h1{
+    
+   padding-right: 800px;
+   text-align:inherit;
+}
+
+
+form {
+    
+    padding-left: 40px;
+    
+     
+        
+}
+
+
+
+.contain{
+    
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.square{
+    
+    height: 94%;
+    width: 94%;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -47% 0 0 -47%;
+}
+
+.black{ 
+    
+    background: black;  
+    animation: rotate 10s infinite linear; 
+}
+
+@keyframes rotate{
+  0%{ transform: rotate(0deg); }
+    100%{ transform: rotate(360deg); }  
+    
